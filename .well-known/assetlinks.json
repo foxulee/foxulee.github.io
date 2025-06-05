@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ollon.mobile.uat",
+      "sha256_cert_fingerprints": [
+        "01:38:45:B4:A2:FE:B1:C7:98:B9:D9:86:7A:8D:4C:10:B2:92:2F:43:60:0C:42:C2:95:AF:4D:D4:F0:7D:BF:59"
+      ]
+    }
+  }
+]
