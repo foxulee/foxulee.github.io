@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "NPQKCJ8Z39.com.ollon.mobile.uat",
+        "paths": [
+          "/link/*"
+        ]
+      }
+    ]
+  }
+}
